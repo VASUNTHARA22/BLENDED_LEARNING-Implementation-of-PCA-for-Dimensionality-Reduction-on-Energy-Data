@@ -31,8 +31,8 @@ Create visualizations of the principal components to interpret patterns and clus
 ```
 /*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: DAKSHA C
-RegisterNumber: 212224230048
+Developed by: VASUNTHARA SAI S 
+RegisterNumber: 212224230297
 
 
 # Import necessary libraries
